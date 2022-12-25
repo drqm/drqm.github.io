@@ -1,0 +1,12 @@
+name: "David Quiroga Martinez"
+output_dir: "docs"
+navbar:
+  title: "David Quiroga Martinez"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Contact"
+      href: contact.html
+output:
+  html_document:
+    theme: cosmo
