@@ -1,16 +1,37 @@
 ---
-title: "Home"
+title: ""
 ---
 
-<img src="files/profile.png" style="width:20%;float:left;position: relative;margin-right:1.5rem">
-
-<div style="text-align: justify"> 
-
-I am a neuroscientist studying musical imagination. I try to understand how our brains can mentally hold and manipulate sounds, giving rise to our remarkable inner ear.
+<figure>
+  <img src="files/profile.png" style="width:20%;float:left;position: relative;margin-right:1.5rem">
+<figcaption> I am a neuroscientist studying musical imagination. I try to understand how our brains can mentally hold and manipulate sounds, giving rise to our remarkable inner ear.
 
 I use a combination of invasive (intracranial EEG) and non-invasive (M/EEG) techniques to register the activity of the brain while people listen and imagine musical sound sequences. My hope is that these recordings will give us valuable clues about the neural mechanisms that allow auditory imagination.
 
-Currently a postdoc at UC Berkeley, I will be moving to the University of Copenhagen in 2024 to start a cognitive intracranial EEG research program there. 
+Currently a postdoc at UC Berkeley, I will be moving to the University of Copenhagen in 2024 to start a cognitive intracranial EEG research program there.\
+\
 
-</div>
+</figcaption>
+</figure> 
+
+#### Contact
+
+<img src="files/email.png" style="width:2%;float:left;position: relative; margin-right:0.25rem">dquiroga@berkeley.edu
+
+<img src="files/email.png" style="width:2%;float:left;position: relative; margin-right:0.25rem">dquiroga@clin.au.dk
+
+<a href="https://twitter.com/dariquima">
+  <img src="files/X.png"  
+  style="width:2%;float:left;position: relative; margin-right:0.25rem">@dariquima
+</a>
+
+<a href="https://github.com/drqm">
+  <img src="files/github.png"   style="width:2%;float:left;position: relative; margin-right:0.25rem">drqm
+</a>
+
+<a href="https://scholar.google.com/citations?user=Tp9HM88AAAAJ&hl=en&authuser=1">
+  <img src="files/scholar.png"   style="width:2%;float:left;position: relative; margin-right:0.25rem">Google Scholar
+</a>
+
+
 
