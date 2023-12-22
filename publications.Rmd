@@ -1,0 +1,47 @@
+---
+title: "Publications"
+---
+
+|         2023
+
+* Hoy, C. W., Quiroga-Martinez, D. R., Sandoval, E., King-Stephens, D., Laxer, K. D., Weber, P., Lin, J. J., & Knight, R. T. (2023). Asymmetric coding of reward prediction errors in human insula and dorsomedial prefrontal cortex. Nature Communications, 14(1), Article 1. [[DOI](https://doi.org/10.1038/s41467-023-44248-1)] 
+[[preprint](https://doi.org/10.1101/2022.12.07.519496)] [[code](https://github.com/hoycw/asymmetric_RPE_paper)]
+[[data](https://doi.org/10.5281/zenodo.10023443)]
+
+* Quiroga-Martinez, D. R., Rubio, G. F., Bonetti, L., Achyutuni, K. G., Tzovara, A., Knight, R. T., & Vuust, P. (2023). Decoding reveals the neural representation of held and manipulated musical thoughts (p. 2023.08.15.553456). bioRxiv. [[DOI](https://doi.org/10.1101/2023.08.15.553456)] 
+
+* Basiński, K., Quiroga-Martinez, D. R., & Vuust, P. (2023). Temporal hierarchies in the predictive processing of melody − From pure tones to songs. Neuroscience & Biobehavioral Reviews, 145, 105007. [[DOI](https://doi.org/10.1016/j.neubiorev.2022.105007)]
+[[preprint](https://doi.org/10.31234/osf.io/nua2j)]
+
+|         2022
+
+* Mencke, I., Omigie, D., Quiroga-Martinez, D. R., & Brattico, E. (2022). Atonal Music as a Model for Investigating Exploratory Behavior. Frontiers in Neuroscience, 16. [[DOI](https://www.frontiersin.org/articles/10.3389/fnins.2022.793163)]
+
+* Quiroga-Martinez, D. R., Basiński, K., Nasielski, J., Tillmann, B., Brattico, E., Cholvy, F., Fornoni, L., Vuust, P., & Caclin, A. (2022). Enhanced mismatch negativity in harmonic compared with inharmonic sounds. European Journal of Neuroscience. [[DOI](https://doi.org/10.1111/ejn.15769)]
+
+|         2021
+
+* Mencke, I., Quiroga-Martinez, D. R., Omigie, D., Michalareas, G., Schwarzacher, F., Haumann, N. T., Vuust, P., & Brattico, E. (2021). Prediction under uncertainty: Dissociating sensory from cognitive expectations in highly uncertain musical contexts. Brain Research, 1773, 147664. [[DOI](https://doi.org/10.1016/j.brainres.2021.147664)]
+
+* Quiroga-Martinez, D. R., Hansen, N. C., Højlund, A., Pearce, M., Brattico, E., Holmes, E., Friston, K., & Vuust, P. (2021). Musicianship and melodic predictability enhance neural gain in auditory cortex during pitch deviance detection. Human Brain Mapping, 42(17), 5595–5608. [[DOI](https://doi.org/10.1002/hbm.25638)]
+
+* Quiroga-Martinez, D. R., Tillmann, B., Brattico, E., Cholvy, F., Fornoni, L., Vuust, P., & Caclin, A. (2021). Listeners with congenital amusia are sensitive to context uncertainty in melodic sequences. Neuropsychologia, 158, 107911. [[DOI](https://doi.org/10.1016/j.neuropsychologia.2021.107911)]
+
+
+|         2020
+
+* Quiroga-Martinez, D. R., Hansen, N. Chr., Højlund, A., Pearce, M., Brattico, E., & Vuust, P. (2020). Decomposing neural responses to melodic surprise in musicians and non-musicians: Evidence for a hierarchy of predictions in the auditory system. NeuroImage, 116816. [[DOI](https://doi.org/10.1016/j.neuroimage.2020.116816)]
+
+* Friston, K. J., Sajid, N., Quiroga-Martinez, D. R., Parr, T., Price, C. J., & Holmes, E. (2020). Active listening. Hearing Research, 107998. [[DOI](https://doi.org/10.1016/j.heares.2020.107998)]
+
+* Lumaca, M., Dietz, M. J., Hansen, N. Chr., Quiroga‐Martinez, D. R., & Vuust, P. (2020). Perceptual learning of tone patterns changes the effective connectivity between Heschl’s gyrus and planum temporale. Human Brain Mapping, hbm.25269. [[DOI](https://doi.org/10.1002/hbm.25269)]
+
+|         2019
+
+* Quiroga-Martinez, D. R., Hansen, N. C., Højlund, A., Pearce, M., Brattico, E., & Vuust, P. (2019a). Musical prediction error responses similarly reduced by predictive uncertainty in musicians and non-musicians. European Journal of Neuroscience. [[DOI](https://doi.org/10.1111/ejn.14667)]
+
+* Quiroga-Martinez, D. R., Hansen, N. Chr., Højlund, A., Pearce, M., Brattico, E., & Vuust, P. (2019b). Reduced prediction error responses in high-as compared to low-uncertainty musical contexts. Cortex, 120, 181–200. [[DOI](https://doi.org/10.1016/j.cortex.2019.06.010)]
+
+* de Fleurian, R., Harrison, P. M. C., Pearce, M., & Quiroga-Martinez, D. R. (2019). Reward prediction tells us less than expected about musical pleasure. Proceedings of the National Academy of Sciences, 201913244. [[DOI](https://doi.org/10.1073/pnas.1913244116)]
+
+

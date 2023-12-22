@@ -1,4 +1,10 @@
 ---
 title: "Contact"
 ---
-email: dariquima@gmail.com
+email
+
+* dariquima@gmail.com
+* dquiroga@berkeley.edu
+* dquiroga@clin.au.dk
+
+twitter/X: @[dariquima](https://twitter.com/dariquima)
