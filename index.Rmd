@@ -3,12 +3,12 @@ title: ""
 ---
 
 <figure>
-  <img src="files/profile.png" style="width:20%;float:left;position: relative;margin-right:1.5rem">
-<figcaption> I am a neuroscientist studying musical imagination. I try to understand how our brains can mentally hold and manipulate sounds, giving rise to our remarkable mind's ear.
+  <img src="files/profile.png" style="width:15%;float:left;position: relative;margin-right:1.5rem">
+<figcaption> I am a neuroscientist studying auditory working memory and imagination. I try to understand how our brains can mentally hold and manipulate sounds, giving rise to our remarkable mind's ear.
 
-I use a combination of invasive (intracranial EEG) and non-invasive (M/EEG) techniques to register the activity of the brain while people listen and imagine musical sound sequences. My hope is that these recordings will give us valuable clues about the neural mechanisms that allow auditory imagination.
+I use a combination of invasive (intracranial EEG) and non-invasive (M/EEG) techniques to register the activity of the brain while people listen and imagine musical sound sequences. My hope is that these recordings will give us valuable clues about the neural mechanisms that allow auditory imagination, potentially leading to a better understanding of abnormal imagery in psychiatric disorders and applications in brain-computer interfaces.
 
-Currently a postdoc at UC Berkeley, I will be moving to the University of Copenhagen in 2024 to start a cognitive intracranial EEG research program there.\
+After a few years as a postdoc at UC Berkeley, I moved in the fall of 2024 to the University of Copenhagen to start a cognitive intracranial EEG research program.\
 \
 \
 </figcaption>
@@ -16,7 +16,7 @@ Currently a postdoc at UC Berkeley, I will be moving to the University of Copenh
 
 #### Contact
 
-<img src="files/email.png" style="width:2%;float:left;position: relative; margin-right:0.25rem">dquiroga@berkeley.edu
+<img src="files/email.png" style="width:2%;float:left;position: relative; margin-right:0.25rem">david.quiroga@psy.ku.dk
 
 <img src="files/email.png" style="width:2%;float:left;position: relative; margin-right:0.25rem">dquiroga@clin.au.dk
 

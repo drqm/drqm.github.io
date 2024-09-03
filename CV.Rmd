@@ -1,0 +1,85 @@
+---
+title: 'CV -  David R. Quiroga-Martinez'
+---
+
+### Employment
+
+* ***09/2024 - Present*** - Postdoctoral Researcher - Department of Psychology, University of Copenhagen
+* ***01/2022 - 09/2024***	- Postdoctoral Fellow - Department of Psychology and Neuroscience, University of California, Berkeley
+* ***10/2016 - 12/2021***	- PhD student & Postdoc - Center for Music in the Brain, Aarhus University
+
+### Academic Qualifications
+
+* ***12/2019***	- PhD in Clinical Medicine (Neuroscience) - Aarhus University, Denmark
+* ***09/2015*** - MA Psychology of Music (Distinction) - University of Sheffield, UK
+* ***12/2012***	- BA Music (Best student of the class) - EAFIT University, Medellin, Colombia
+
+### International Research Experience
+
+* ***04/2019 - 07/2019***	- Visiting researcher - Theoretical Neurobiology Group, University College London, UK
+* ***09/2018 - 12/2018***	- Visiting researcher - Dynamic Cognition Group, INSERM, Lyon, France
+
+### Fellowships and Grants
+
+* ***2023*** - Reintegration fellowship - Carlsberg Foundation<br>
+<ul>The representation of musical thoughts in neurons of the human brain<br> University of Copenhagen; 24 months; 1,329,302 Kr. (US $200,000)</ul>
+* ***2020*** - International postdoc fellowship - Independent Research Fund Denmark<br>
+<ul>The neuronal basis of musical imagination<br>UC Berkeley; 24 months; 1,310,000 Kr. ($210,000)</ul>
+* ***2020*** - Internationalization fellowship (declined) - Carlsberg Foundation<br>
+<ul>The neuronal basis of musical imagination<br>UC Berkeley; 12 months; 410,000 Kr. ($67,000)</ul> 
+* ***2016*** - PhD fellowship - The neural responses to auditory surprise in complex and realistic musical contexts<br>
+<ul>Aarhus University; 36 months; 1,260,000 Kr. ($205,000)</ul>
+* ***2016*** - Research supplement - The neural responses to auditory surprise in complex and realistic musical contexts<br>
+<ul>Graduate school of health, Aarhus University; 36 months; 550,000 Kr. ($90,000)</ul>
+
+### Awards
+
+* ***2023*** - Young Researcher Award
+<ul>International Conference on Music Perception and Cognition 17, Japan</ul>
+* ***2013*** - Acknowledgement to the highest scores in Colombia in the examination for the assessment of higher education “Saber Pro” 
+<ul>Ministry of National Education, Colombia</ul>
+* ***2012*** - Mention of Honour and Best Graduating Student
+EAFIT University, Colombia</ul>
+
+### Invited Talks
+
+* ***2023*** - Symposium on Cognitive Auditory Neuroscience.
+<ul>The Bayesian musical brain:
+From surprise and uncertainty to emotion and imagination.</ul>
+* ***2022*** - Sainsbury Wellcome Centre.
+<ul>Statistical learning in music listening: From surprise and uncertainty to emotion and imagination.</ul>
+* ***2021*** - RITMO – University of Oslo.  
+<ul>The Neuronal Processing of Musical Sound Sequences.</ul>
+
+### Teaching, Management, and Supervision
+* ***2016 - 2024*** - 5 PhD students, 2 Master’s student, 6 Bachelor students
+* ***2023*** - Guest Lecturer Music Cognition Course at UC Berkeley.
+* ***2022*** - Online lecturer for ESCOP conference – Analysis of neural data
+* ***2021*** - Online Mentor at Neuromatch Academy – Computational neuroscience 
+* ***2021*** - Lecturer for the summer school in music neuroscience (Aarhus University). 
+* ***2018*** - Lecturer for the Music in the Brain Course (Aarhus University).
+* ***2018*** - Guest Lecturer for the Bachelor in Arts program (Antioquia University). 
+* ***2016*** - Guest Lecturer for the Master’s Degree in Music (EAFIT University). 
+* ***2015*** - Coordinator of a Diploma Degree in Music (EAFIT University). 
+
+### Other Experience
+* ***PhD thesis committee*** - 2023 - Carlota Pages, Pompeu Fabra University (Barcelona)
+* ***Peer review*** -	Sci. Adv., Nat. Comm., PNAS, Comm. Bio., Plos One, eLife, NeuroImage, Eur. J. Neurosci., Cerebral Cortex, J. Cog. Neurosci., Front. Neurosci., Cog. Neurody., Psychophysiology, Neuroscience.
+* ***Leadership*** 
+<ul>
+-	2023-2024 - Board member of the Berkeley Postdoc Association (BPA).
+- 2024 - Mentor at the Research Experiences Program in Neuroscience for underserved bachelor students, UC Berkeley.
+</ul>
+* ***Public engagement***
+<ul>
+-	2024 - Speaker at Caminos de la Ciencia (Spanish): “Usando el poder de la música para explorar el cerebro”, Oakland, USA
+- 2024 - Speaker at Lawrence Hall of Science: “Music and the Brain”, Berkeley, USA
+</ul>
+
+### Other Education
+* ***2023***	Scientific Leadership – UC Berkeley
+* ***2022***	Paths to scientific teaching – UC Berkeley
+* ***2020***	Neuromatch Academy – Computational neuroscience
+* ***2020***	Computational Neuroscience MOOC, University of Washington, Coursera.
+* ***2020***	Mathematics for Machine Learning MOOC, Imperial College, Coursera.
+* ***2018***	MNE-Python course, Dynamic Cognition Group, INSERM Lyon.
