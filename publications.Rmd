@@ -4,6 +4,7 @@ title: "Publications"
 
 #### 2024
 * Quiroga-Martinez, D. R., Rubio, G. F., Bonetti, L., Achyutuni, K. G., Tzovara, A., Knight, R. T., & Vuust, P. (2024). Decoding reveals the neural representation of perceived and imagined musical sounds. PLoS Biol 22(10): e3002858. [[DOI](https://doi.org/10.1371/journal.pbio.3002858)]
+[[pdf](files/articles/Quiroga-Martinez et al. - 2024 - Decoding reveals the neural representation of perceived and imagined musical sounds.pdf)]
 [[preprint](https://doi.org/10.1101/2023.08.15.553456)] 
 [[code](https://doi.org/10.5281/zenodo.13760787)]
 [[data](https://doi.org/10.5281/zenodo.13760720)]
