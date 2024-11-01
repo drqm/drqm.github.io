@@ -1,7 +1,7 @@
-name: "David Quiroga Martinez"
+name: "David Ricardo Quiroga-Martinez"
 output_dir: "docs"
 navbar:
-  title: "David Quiroga Martinez"
+  title: "David Ricardo Quiroga-Martinez"
   left:
     - text: "Home"
       href: index.html
