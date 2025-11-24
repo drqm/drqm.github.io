@@ -4,7 +4,9 @@ title: "Publications"
 #### 2025
 * Quiroga-Martinez, D. R., He, T., Fernández-Rubio, G., Bonetti, L., Blenkmann, A. O., Endestad, T., Solbakk, A.-K., Meling, T. R., Fabricius, M., Kim-McManus, O., Willie, J. T., Brunner, P., Dastjerdi, M., Lin, J. J., & Knight, R. T. (2025). Brain dynamics of mental manipulation (p. 2025.10.20.683458). bioRxiv. [[preprint](https://doi.org/10.1101/2025.10.20.683458)]
 
-* Basiński, K., Celma-Miralles, A., Quiroga-Martinez, D. R., & Vuust, P. (2025). Inharmonicity enhances brain signals of attentional capture and auditory stream segregation (p. 2025.04.17.649377). bioRxiv. [[preprint](https://doi.org/10.1101/2025.04.17.649377)]
+* Basiński, K., Celma-Miralles, A., Quiroga-Martinez, D. R., & Vuust, P. (2025). Inharmonicity enhances brain signals of attentional capture and auditory stream segregation. Communications Biology, 8(1), 1584. [[DOI](https://doi.org/10.1038/s42003-025-08999-5)]
+[[preprint](https://doi.org/10.1101/2025.04.17.649377)]
+[[pdf](files/articles/Basiński et al. - 2025 - Inharmonicity enhances brain signals of attentional capture and auditory stream segregation.pdf)]
 
 #### 2024
 * Quiroga-Martinez, D. R., Rubio, G. F., Bonetti, L., Achyutuni, K. G., Tzovara, A., Knight, R. T., & Vuust, P. (2024). Decoding reveals the neural representation of perceived and imagined musical sounds. PLoS Biol 22(10): e3002858. [[DOI](https://doi.org/10.1371/journal.pbio.3002858)]
